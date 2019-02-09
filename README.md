@@ -1,5 +1,4 @@
-# Main
-## Collezione di appunti e file per l'università.
+# Collezione di appunti e file per l'università.
 ### Primo anno di corso
 **Esami di primo periodo:**
   - Analisi T-A:                    28/trentesimi il 10 gennaio 2019
