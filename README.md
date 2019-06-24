@@ -8,7 +8,7 @@
   - Idoneità di Inglese B1:         Idoneo il 18 dicembre 2018
   
 **Esami di secondo periodo:**
-  - Analisi T-B:                    
+  - Analisi T-B:                    30/trentesimi il 10 giugno 2019                    
   - Fisica Generale TCI T-B:    
   - Meccanica Razionale:         
   - Disegno meccanico e automatico:            
