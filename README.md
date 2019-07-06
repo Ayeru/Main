@@ -8,7 +8,7 @@
   - Fisica Generale TCI T-A:        29/trentesimi il 18 febbraio 2019
   
 **Esami di secondo periodo:**
-  - Analisi T-B:                    30/trentesimi il 10 giugno 2019                    
-  - Fisica Generale TCI T-B:    
+  - Analisi T-B:                    30/trentesimi il 10 giugno 2019
   - Meccanica Razionale:            30L/trentesimi il 4 luglio 2019
+  - Fisica Generale TCI T-B:    
   - Disegno meccanico e automatico:            
