@@ -10,5 +10,5 @@
 **Esami di secondo periodo:**
   - Analisi T-B:                    30/trentesimi il 10 giugno 2019
   - Meccanica Razionale:            30L/trentesimi il 4 luglio 2019
-  - Fisica Generale TCI T-B:    
+  - Fisica Generale TCI T-B:        30/trentesimi il 24 luglio 2019
   - Disegno meccanico e automatico:            
