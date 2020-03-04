@@ -19,4 +19,4 @@
   - Meccanica delle Macchine TCI:     29/trentesimi il 20 dicembre 2019
   - Elettrotecnica Industriale T:     24/trentesimi il 8 gennaio 2020
   - Elementi di Macchine T:
-  - Metallurgia T:        
+  - Metallurgia T:                    29/trentesimi il 13 febbraio 2020       
