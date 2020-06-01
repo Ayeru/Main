@@ -11,12 +11,19 @@
   - Analisi T-B:                    30/trentesimi il 10 giugno 2019
   - Meccanica Razionale T:            30L/trentesimi il 4 luglio 2019
   - Fisica Generale TCI T-B:        30/trentesimi il 24 luglio 2019
-  - Disegno meccanico e automatico: 
+  - Disegno meccanico e automatico:                 X
   
 ### Secondo anno di corso
 **Esami di primo periodo:**
   - Fondamenti di Informatica:        30L/trentesimi il 13 gennaio 2020
   - Meccanica delle Macchine TCI:     29/trentesimi il 20 dicembre 2019
   - Elettrotecnica Industriale T:     24/trentesimi il 8 gennaio 2020
-  - Elementi di Macchine T:
+  - Elementi di Macchine T:                         X
   - Metallurgia T:                    29/trentesimi il 13 febbraio 2020       
+  
+**Esami di secondo periodo:**
+  - Meccanica degli Azionamenti:
+  - Meccanica dei Fluidi:
+  - Fisica Tecnica:
+  - Tecnologia:
+  - Complementi di Tecnologia:
