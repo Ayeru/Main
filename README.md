@@ -22,8 +22,8 @@
   - Metallurgia T:                    29/trentesimi il 13 febbraio 2020       
   
 **Esami di secondo periodo:**
-  - Meccanica degli Azionamenti:
-  - Meccanica dei Fluidi:
+  - Meccanica degli Azionamenti:      22/trentesimi il 8 giugno 2020
+  - Meccanica dei Fluidi:             30/trentesimi il 15 giugno 2020
   - Fisica Tecnica:
   - Tecnologia:
   - Complementi di Tecnologia:
