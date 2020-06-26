@@ -11,7 +11,7 @@
   - Analisi T-B:                    30/trentesimi il 10 giugno 2019
   - Meccanica Razionale T:            30L/trentesimi il 4 luglio 2019
   - Fisica Generale TCI T-B:        30/trentesimi il 24 luglio 2019
-  - Disegno meccanico e automatico:                 X
+  - Disegno meccanico e automatico: 23/trentesimi il 26 giugno 2020
   
 ### Secondo anno di corso
 **Esami di primo periodo:**
