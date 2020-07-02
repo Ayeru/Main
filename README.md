@@ -18,7 +18,7 @@
   - Fondamenti di Informatica:        30L/trentesimi il 13 gennaio 2020
   - Meccanica delle Macchine TCI:     29/trentesimi il 20 dicembre 2019
   - Elettrotecnica Industriale T:     24/trentesimi il 8 gennaio 2020
-  - Elementi di Macchine T:                         X
+  - Elementi di Macchine T:           30/trentesimi il 1 luglio 2020
   - Metallurgia T:                    29/trentesimi il 13 febbraio 2020       
   
 **Esami di secondo periodo:**
