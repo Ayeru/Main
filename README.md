@@ -24,6 +24,6 @@
 **Esami di secondo periodo:**
   - Meccanica degli Azionamenti:      22/trentesimi il 8 giugno 2020
   - Meccanica dei Fluidi:             30/trentesimi il 15 giugno 2020
-  - Fisica Tecnica:
+  - Fisica Tecnica:                   28/trentesimi il 14 luglio 2020
   - Tecnologia:
   - Complementi di Tecnologia:
