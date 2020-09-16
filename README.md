@@ -26,5 +26,8 @@
   - Meccanica dei Fluidi:             30/trentesimi il 15 giugno 2020
   - Fisica Tecnica:                   28/trentesimi il 14 luglio 2020
   - Complementi di Tecnologia:        25/trentesimi il 28 luglio 2020
-  - Tecnologia:
+  - Tecnologia:                       25/trentesimi il 14 settembre 2020
+  
+### Secondo anno di corso
+**Esami di primo periodo:**  
     
