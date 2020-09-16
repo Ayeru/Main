@@ -28,6 +28,6 @@
   - Complementi di Tecnologia:        25/trentesimi il 28 luglio 2020
   - Tecnologia:                       25/trentesimi il 14 settembre 2020
   
-### Secondo anno di corso
+### Terzo anno di corso
 **Esami di primo periodo:**  
     
