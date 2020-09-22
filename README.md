@@ -22,12 +22,16 @@
   - Metallurgia T:                    29/trentesimi il 13 febbraio 2020       
   
 **Esami di secondo periodo:**
-  - Meccanica degli Azionamenti:      22/trentesimi il 8 giugno 2020
-  - Meccanica dei Fluidi:             30/trentesimi il 15 giugno 2020
-  - Fisica Tecnica:                   28/trentesimi il 14 luglio 2020
-  - Complementi di Tecnologia:        25/trentesimi il 28 luglio 2020
-  - Tecnologia:                       25/trentesimi il 14 settembre 2020
+  - Meccanica degli Azionamenti T:    22/trentesimi il 8 giugno 2020
+  - Meccanica dei Fluidi T:           30/trentesimi il 15 giugno 2020
+  - Fisica Tecnica T:                 28/trentesimi il 14 luglio 2020
+  - Complementi di Tecnologia T:      25/trentesimi il 28 luglio 2020
+  - Tecnologia Meccanica T:           25/trentesimi il 14 settembre 2020
   
 ### Terzo anno di corso
 **Esami di primo periodo:**  
-    
+ - Impianti Meccanici T:      
+ - Sistemi Energetici T:            
+ - Logistica Industriale T:                   
+ - Manutenzione T:        
+ - Costruzione di Macchine T:                     
