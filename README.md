@@ -30,7 +30,7 @@
   
 ### Terzo anno di corso
 **Esami di primo periodo:**  
-  - Logistica Industriale T:          27/trentesimi il 23 dicembre 2020 - Tudor
+  - Logistica Industriale T:          27/trentesimi il 23 dicembre 2020 - T
  - Impianti Meccanici T:      
  - Sistemi Energetici T:                              
  - Manutenzione T:        
