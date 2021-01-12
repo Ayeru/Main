@@ -11,7 +11,7 @@
   - Analisi T-B:                    30/trentesimi il 10 giugno 2019 - S
   - Meccanica Razionale T:            30L/trentesimi il 4 luglio 2019 - S
   - Fisica Generale TCI T-B:        30/trentesimi il 24 luglio 2019 - V
-  - Disegno meccanico e automatico: 23/trentesimi il 26 giugno 2020 - T(?)
+  - Disegno meccanico e automatico: 23/trentesimi il 26 giugno 2020 - Tu(?)
   
 ### Secondo anno di corso
 **Esami di primo periodo:**
@@ -30,8 +30,8 @@
   
 ### Terzo anno di corso
 **Esami di primo periodo:**  
-  - Logistica Industriale T:          27/trentesimi il 23 dicembre 2020 - Tu
- - Impianti Meccanici T:      
- - Sistemi Energetici T:                              
- - Manutenzione T:        
- - Costruzione di Macchine T:                     
+  - Logistica Industriale T:           27/trentesimi il 23 dicembre 2020 - Tu
+  - Sistemi Energetici T:              30/trentesimi il 12 gennaio 2021 - R                              
+  - Impianti Meccanici T:      
+  - Manutenzione T:        
+  - Costruzione di Macchine T:                     
