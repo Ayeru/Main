@@ -30,8 +30,8 @@
   
 ### Terzo anno di corso
 **Esami di primo periodo:**  
-  - Logistica Industriale T:           27/trentesimi il 23 dicembre 2020 - Tu
-  - Sistemi Energetici T:              30/trentesimi il 12 gennaio 2021 - R                              
+  - Manutenzione T:                    27/trentesimi il 22 dicembre 2020 - Tu
+  - Logistica Industriale T:           30/trentesimi il 23 dicembre 2020 - Tu
+  - Sistemi Energetici T:              30/trentesimi il 12 gennaio 2021 - R     
   - Impianti Meccanici T:      
-  - Manutenzione T:        
   - Costruzione di Macchine T:                     
