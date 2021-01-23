@@ -1,4 +1,4 @@
-# Collezione di appunti e file per l'università.
+# Cronologia esami
 ### Primo anno di corso
 **Esami di primo periodo:**
   - Idoneità di Inglese B1:         Idoneo il 18 dicembre 2018 - Ti
