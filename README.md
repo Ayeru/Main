@@ -32,6 +32,7 @@
 **Esami di primo periodo:**  
   - Logistica Industriale T:           30/trentesimi il 23 dicembre 2020 - Tu
   - Manutenzione T:                    29/trentesimi il 20 gennaio 2020 - R
-  - Sistemi Energetici T:              30/trentesimi il 12 gennaio 2021 - R     
+  - Sistemi Energetici T:              30/trentesimi il 12 gennaio 2021 - R    
+  - Costruzione di Macchine T:         24/trentesimi il 8 febbraio 2021 - R   
   - Impianti Meccanici T:      
-  - Costruzione di Macchine T:                     
+      
