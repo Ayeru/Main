@@ -37,8 +37,8 @@
   - Impianti Meccanici T:              24/trentesimi il 16 febbraio 2021 - R       
       
 **Esami di secondo periodo:**
+  - Misure Meccaniche, Termiche e Collaudo T:               28/trentesimi il 25 maggio 2021 - T       
   - Macchine T:
   - Economia e Organizzazione Aziendale T: 
-  - Misure Meccaniche, Termiche e Collaudo T:
   - Progettazione Assistita di Componenti Meccanici T:
   - Tirocinio TA:
